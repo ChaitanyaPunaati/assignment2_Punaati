@@ -13,3 +13,10 @@
     2. Board the train which is going to Madhurai railway station and get down there.
     3. Take any public transport like car, jeep, bus etc., to go to Kodaikanal.
 
+* Leather jacket
+* Gloves
+* Sox
+* Camera
+* Food
+    * Water bottles
+    * Snacks
