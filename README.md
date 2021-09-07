@@ -24,3 +24,16 @@
 <hr/>
 
 [Link to Aboutme.md file](https://github.com/ChaitanyaPunaati/assignment2_Punaati/blob/main/AboutMe.md)
+
+<hr/>
+
+# Table Section #
+
+I have mentioned few delicious food/drinks below that i would really recommend you to try.
+
+| Food/Drink | Location | Amount |
+| --- | --- | --- |
+| Burger | Chick-fil-A | $4 |
+| Pizza | Dominos | $10 |
+| Whole weat | SUBWAY | $6 |
+| Pepsi | Campus Dining | $2 |
