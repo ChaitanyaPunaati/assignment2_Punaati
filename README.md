@@ -42,8 +42,8 @@ I have mentioned few delicious food/drinks below that i would really recommend y
 
 # Pithy Quotes #
 
-> You will face many defeats in life, but never let yourself be defeated. -  ___MAYA ANGELOU___
+> You will face many defeats in life, but never let yourself be defeated. -  _MAYA ANGELOU_
 > 
-> The happiness of your life depends on the quality of your thoughts. -  ___MARCUS AURELIUS___
+> The happiness of your life depends on the quality of your thoughts. -  _MARCUS AURELIUS_
 >
 
