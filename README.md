@@ -37,3 +37,13 @@ I have mentioned few delicious food/drinks below that i would really recommend y
 | Pizza | Dominos | $10 |
 | Whole weat | SUBWAY | $6 |
 | Pepsi | Campus Dining | $2 |
+
+<hr/>
+
+# Pithy Quotes #
+
+> You will face many defeats in life, but never let yourself be defeated. -  ___MAYA ANGELOU___
+> 
+> The happiness of your life depends on the quality of your thoughts. -  ___MARCUS AURELIUS___
+>
+
