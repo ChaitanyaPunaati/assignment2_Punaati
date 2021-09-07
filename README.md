@@ -47,3 +47,26 @@ I have mentioned few delicious food/drinks below that i would really recommend y
 > The happiness of your life depends on the quality of your thoughts. -  _MARCUS AURELIUS_
 >
 
+<hr/>
+
+# Code Fencing #
+
+> In geometry, the area is defined as the region occupied inside the boundary of a two-dimensional figure. Therefore, the area of a polygon is the total space or region bound by the sides of a polygon.
+>
+> The standard units for the measurement of the area are square meters (m2).
+
+[Link to Algorithm description](https://www.storyofmathematics.com/area-of-polygon)
+
+```
+double area(const vector<point>& fig) {
+    double res = 0;
+    for (unsigned i = 0; i < fig.size(); i++) {
+        point p = i ? fig[i - 1] : fig.back();
+        point q = fig[i];
+        res += (p.x - q.x) * (p.y + q.y);
+    }
+    return fabs(res) / 2;
+}
+```
+
+[Link to the code source](https://cp-algorithms.com/geometry/area-of-simple-polygon.html#toc-tgt-1)
